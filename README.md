@@ -13,7 +13,7 @@ Sistem absensi berbasis RFID menggunakan ESP32 dengan koneksi LAN (W5500) dan Wi
 
 ## Diagram Rangkaian
 
-![Circuit Diagram](https://raw.githubusercontent.com/training-solonet/IoT-Absensi/main/circuit-diagram.png)
+![Circuit Diagram](circuit_image.png)
 
 **[Buka di Circuit Designer Editor](https://app.cirkitdesigner.com/project/ef9e74c2-c2a1-4f43-9630-5cb392cd07a5)** untuk melihat dan mengedit diagram rangkaian.
 
